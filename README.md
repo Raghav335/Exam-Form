@@ -21,7 +21,7 @@ A simple and interactive web-based form built using HTML, CSS, and JavaScript th
 
 ## 📷 Screenshots
 
-![Screenshot](screenshot.png) (You can upload your own image and update this)
+![Screenshot](https://github.com/Raghav335/Exam-Form/blob/main/Screenshot_2-7-2025_135810_127.0.0.1.jpeg) (You can upload your own image and update this)
 
 ## 🛠 Technologies Used
 
