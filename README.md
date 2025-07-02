@@ -40,7 +40,7 @@ A simple and interactive web-based form built using HTML, CSS, and JavaScript th
 2. Upload the files to your repo
 3. Go to *Settings → Pages*
 4. Choose the main branch and /root
-5. Get your live link (e.g. https://Raghav335.github.io/exam-form/)
+5. Get your live link (e.g. https://github.com/Raghav335/Exam-Form.git)
 
 ## 📦 Folder Structure
 exam-form/ │ ├── index.html        # Main form file ├── README.md         # Project description └── (Optional assets like CSS or JS if separated)
